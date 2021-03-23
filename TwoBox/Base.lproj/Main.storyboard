@@ -40,10 +40,6 @@
                             <constraint firstItem="jVi-4T-idI" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="10" id="mhZ-KV-tub"/>
                         </constraints>
                     </view>
-                    <connections>
-                        <outlet property="indigoBox" destination="YBj-Jv-QB2" id="KpO-XY-Lv7"/>
-                        <outlet property="pinkBox" destination="jVi-4T-idI" id="TAu-XE-BIj"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
